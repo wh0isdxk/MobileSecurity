@@ -1,2 +1,1 @@
-
-[Apresentação Laranja e Cinza de Guerras e Revoluções na História do Brasil.pdf](https://github.com/wh0isdxk/MobileSecurity/files/10166937/BypassingMobileProtections-DaianeSantos.pdf)
+[BypassingMobileProtections-DaianeSantos.pdf](https://github.com/wh0isdxk/MobileSecurity/files/10166947/BypassingMobileProtections-DaianeSantos.pdf)
