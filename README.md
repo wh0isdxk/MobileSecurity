@@ -1,5 +1,6 @@
 # Mobile Security
-![image](https://user-images.githubusercontent.com/37185061/196573536-ea809c6d-89d5-42b2-bba5-573f627d9a3b.png)
+
+![Blue Illustrated Technology General LinkedIn Banner (1)](https://user-images.githubusercontent.com/37185061/213771625-a573b0ab-2363-491d-8285-cbbec547e203.gif)
 
 ## Android 
 
