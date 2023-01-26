@@ -11,6 +11,9 @@
 
 [AndroidArchitecture4.pdf](https://github.com/wh0isdxk/MobileSecurity/files/10460160/AndroidArchitecture4.pdf)
 
+[AppComponents1.pdf](https://github.com/wh0isdxk/MobileSecurity/files/10509923/AppComponents1.pdf)
+
+[AppComponents2.pdf](https://github.com/wh0isdxk/MobileSecurity/files/10509925/AppComponents2.pdf)
 
 ## Reverse Engineering 
 
