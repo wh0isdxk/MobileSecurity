@@ -40,3 +40,30 @@
 - RASP 
 
 ### Proteções 
+
+### Livros 
+
+### Videos 
+
+### Cursos
+
+### Onde Praticar? 
+
+#### PentesterLab
+Ordem Recomendada:
+- Yellow
+- Orange
+- Brown
+- Media
+- White
+- Blue
+- Green
+
+Relacionados:
+- Auth
+- API
+- CodeReview
+- Java Code Review
+- Serialize
+- JSerialize
+
